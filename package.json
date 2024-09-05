@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/ws": "^8.5.12",
+    "bcrypt": "^5.1.1",
+    "next": "14.2.8",
+    "postgres": "^3.4.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.8"
+    "ws": "^8.18.0"
   },
   "devDependencies": {
     "typescript": "^5",
